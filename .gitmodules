@@ -1,0 +1,8 @@
+[submodule "Programmazione-I"]
+	path = Programmazione-I
+	url = git@github.com:Univr-Ristretto/Programmazione-I.git
+	branch = stable
+[submodule "Architettura-Elaboratori"]
+	path = Architettura-Elaboratori
+	url = git@github.com:Univr-Ristretto/Architettura-Elaboratori.git
+	branch = stable
